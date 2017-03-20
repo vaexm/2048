@@ -1,0 +1,13 @@
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\bin\Debug\20151121.2048.VAE2.exe
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\bin\Debug\20151121.2048.VAE2.pdb
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\MainWindow.baml
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\MainWindow.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\App.g.cs
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\20151121.2048.VAE2_MarkupCompile.cache
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\20151121.2048.VAE2.g.resources
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\_20151121._2048.VAE2.Properties.Resources.resources
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\20151121.2048.VAE2.exe
+E:\非凡\administrator\documents\visual studio 2010\Projects\20151121.2048.VAE2\20151121.2048.VAE2\obj\x86\Debug\20151121.2048.VAE2.pdb
